@@ -1,0 +1,5 @@
+Octorok,5,1
+Mummy,7,1
+Wizard,5,3
+Knight,10,2
+Dragon,10,3

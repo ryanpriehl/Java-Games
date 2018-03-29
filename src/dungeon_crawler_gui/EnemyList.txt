@@ -1,0 +1,5 @@
+Octorok,5,1,octorok.png
+Mummy,7,1,mummy.png
+Wizard,5,3,wizard.png
+Knight,10,2,knight.png
+Dragon,10,3,dragon.png

@@ -1,0 +1,6 @@
+Bomb,20
+Bow,10
+Potion,25
+Ring,20
+Shield,10
+Sword,10

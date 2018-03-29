@@ -1,0 +1,6 @@
+Bomb,20,bomb.png
+Bow,10,bow.png
+Potion,25,potion.png
+Ring,20,ring.png
+Shield,10,shield.png
+Sword,10,sword.png
